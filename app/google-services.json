@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "140092278551",
+    "project_id": "lista-de-tarefas-compose-bc955",
+    "storage_bucket": "lista-de-tarefas-compose-bc955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140092278551:android:e09173932ada163d179952",
+        "android_client_info": {
+          "package_name": "br.edu.up.tarefas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6wPmdr_bkNwIPbgj54712Va3H5OvL-f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
